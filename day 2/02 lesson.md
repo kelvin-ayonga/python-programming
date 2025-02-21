@@ -23,3 +23,22 @@
 - `+ OR - Adding or subtraction
 
 NB: execution is from right to left.
+
+### Assignement operations
+Example 
+
+Instead of `score = score + 1` this can be simplified
+- score += 1
+- score *= 1
+- score /= 1
+- score -= 1
+
+introduction for `f-string` for string interpolation instead of the headache of type conversion and concatination of strings
+meaning **interpolation** - the insertion of something of a different nature into something else.
+
+Example: 
+``` python
+ age = 12
+ is_valid = True
+ print(f"Some string with number {age}, then a boolean {is_valid}")
+```
