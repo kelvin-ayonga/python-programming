@@ -21,3 +21,5 @@
 - ** Exponent
 - `* OR / Multiplication or division both are of equal importance execution is from left to right
 - `+ OR - Adding or subtraction
+
+NB: execution is from right to left.
